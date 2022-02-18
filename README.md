@@ -8,3 +8,5 @@
  örneğin 30 derece açılıyor ise 25 derece de kapanıyor.
 -SP değeri mavi ve kırmızı butonlar ile ayarlanabilir.
 -Sıcaklıgın belli değerlerine göre çıkış 2 için Duyt Cycle belirleyerek led parlaklıgını değiştirebiliyoruz.
+
+https://wokwi.com/arduino/projects/323600684275466834
