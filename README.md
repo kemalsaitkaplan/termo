@@ -1,5 +1,5 @@
 # 
--Projemiz 3 button, 1 LDC ekran 2 çıkış ve 1 tane de Sıcaklık ve sensöründen oluşuyor.
+-Projemiz 3 button, 1 LCD ekran 2 çıkış ve 1 tane de Sıcaklık ve sensöründen oluşuyor.
 -Sensörden aldıgımız sıcaklık ve ne değerini FILTER(basit singnal işleme algoritması) makrosu ile filtreliyoruz.
 -Sıcaklık ve nem degerlerini LCD ekran da yazdırıyoruz.
 -LCD ekrandaki sıcaklık birimlerini Yeşil button ile değiştirebiliyoruz(C, F ve K)
